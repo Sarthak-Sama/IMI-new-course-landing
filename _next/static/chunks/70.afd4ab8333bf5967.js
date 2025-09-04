@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[70],{802:function(e,t,n){n.r(t);var i=n(6);t.default=function(e){let{gtmID:t="GTM-5VLKMC3"}=e;return(0,i.jsx)("noscript",{dangerouslySetInnerHTML:{__html:'<iframe src="https://www.googletagmanager.com/ns.html?id='.concat(t,'" height="0" width="0" style="display:none;visibility:hidden"></iframe>')}})}}}]);

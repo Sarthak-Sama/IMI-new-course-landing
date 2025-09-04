@@ -56,154 +56,155 @@
       type="image/webp"
       rel="preload"
       as="image"
-      href="./wkud0epjdpn7/6eZ0IrdVRfnkWR9jDqW6Ya/688d915a5440c825a4a2fde09419de76/IMI-Delhi_PGCDM_Hero-ImageHero-desktop-1080p_11zon.jpg?fm=webp"
+      href="https://images.ctfassets.net/wkud0epjdpn7/6eZ0IrdVRfnkWR9jDqW6Ya/688d915a5440c825a4a2fde09419de76/IMI-Delhi_PGCDM_Hero-ImageHero-desktop-1080p_11zon.jpg?fm=webp"
     />
     <meta name="next-head-count" content="15" />
     <link rel="preconnect" href="https://consent.cookiebot.com" />
     <link rel="dns-prefetch" href="https://consent.cookiebot.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
-    <link rel="preconnect" href="./" />
-    <link rel="dns-prefetch" href="./" />
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
     <link rel="preconnect" href="https://connect.facebook.net" />
     <link rel="dns-prefetch" href="https://connect.facebook.net" />
-    <link rel="preconnect" href="./" />
-    <link rel="dns-prefetch" href="./" />
-    <link rel="preconnect" href="./" />
-    <link rel="dns-prefetch" href="./" />
-    <link rel="preconnect" href="./" />
-    <link rel="dns-prefetch" href="./" />
-    <link rel="preconnect" href="./" />
-    <link rel="dns-prefetch" href="./" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+    <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+    <link rel="preconnect" href="https://www.clarity.ms" />
+    <link rel="dns-prefetch" href="https://www.clarity.ms" />
+    <link rel="preconnect" href="https://images.ctfassets.net" />
+    <link rel="dns-prefetch" href="https://images.ctfassets.net" />
+    <link rel="preconnect" href="https://d20ou977mdcolz.cloudfront.net" />
+    <link rel="dns-prefetch" href="https://d20ou977mdcolz.cloudfront.net" />
     <link
       rel="preload"
-      href="./_next/static/media/934d760e9139b603-s.p.woff2"
+      href="https://d20ou977mdcolz.cloudfront.net/_next/static/media/934d760e9139b603-s.p.woff2"
       as="font"
       type="font/woff2"
+      crossorigin="anonymous"
       data-next-font="size-adjust"
     />
     <link
       rel="preload"
-      href="./_next/static/css/9e98fc0a863a2979.css"
+      href="https://d20ou977mdcolz.cloudfront.net/_next/static/css/9e98fc0a863a2979.css"
       as="style"
     />
     <link
       rel="stylesheet"
-      href="./_next/static/css/9e98fc0a863a2979.css"
+      href="https://d20ou977mdcolz.cloudfront.net/_next/static/css/9e98fc0a863a2979.css"
       data-n-g=""
     />
     <link
       rel="preload"
-      href="./_next/static/css/35896db12f52faae.css"
+      href="https://d20ou977mdcolz.cloudfront.net/_next/static/css/35896db12f52faae.css"
       as="style"
     />
     <link
       rel="stylesheet"
-      href="./_next/static/css/35896db12f52faae.css"
+      href="https://d20ou977mdcolz.cloudfront.net/_next/static/css/35896db12f52faae.css"
       data-n-p=""
     />
     <link
       rel="preload"
-      href="./_next/static/css/03e2150db16569a1.css"
+      href="https://d20ou977mdcolz.cloudfront.net/_next/static/css/03e2150db16569a1.css"
       as="style"
     />
     <link
       rel="stylesheet"
-      href="./_next/static/css/03e2150db16569a1.css"
+      href="https://d20ou977mdcolz.cloudfront.net/_next/static/css/03e2150db16569a1.css"
       data-n-p=""
     />
     <noscript data-n-css=""></noscript>
     <script
       defer=""
       nomodule=""
-      src="./_next/static/chunks/polyfills-42372ed130431b0a.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/polyfills-42372ed130431b0a.js"
     ></script>
     <script
       defer=""
-      src="./_next/static/chunks/69.4b12590196796654.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/69.4b12590196796654.js"
     ></script>
     <script
       defer=""
-      src="./_next/static/chunks/68.c108c4dc01ea5367.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/68.c108c4dc01ea5367.js"
     ></script>
     <script
       defer=""
-      src="./_next/static/chunks/70.afd4ab8333bf5967.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/70.afd4ab8333bf5967.js"
     ></script>
     <script
       defer=""
-      src="./_next/static/chunks/71.9dfe3105dfb273fb.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/71.9dfe3105dfb273fb.js"
     ></script>
     <script
       defer=""
-      src="./_next/static/chunks/75.c0199e37dd261cb0.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/75.c0199e37dd261cb0.js"
     ></script>
     <script
       defer=""
-      src="./_next/static/chunks/74.a960b0a95dcb2469.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/74.a960b0a95dcb2469.js"
     ></script>
     <script
-      src="./_next/static/chunks/webpack-1f5a8e42d1e38b41.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/webpack-1f5a8e42d1e38b41.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/framework-f742d682ecb38461.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/framework-f742d682ecb38461.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/main-78ebed2d370d6cd7.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/main-78ebed2d370d6cd7.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/pages/_app-51cccad8fbba00f6.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/pages/_app-51cccad8fbba00f6.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/35-ffae7f17f87acbd6.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/35-ffae7f17f87acbd6.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/33-37871c90c5fca1dd.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/33-37871c90c5fca1dd.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/38-97a884a6fdb30dc5.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/38-97a884a6fdb30dc5.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/34-83e918ab928a551e.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/34-83e918ab928a551e.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/36-f3e38deb08574f15.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/36-f3e38deb08574f15.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/31-223eca7c926b913a.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/31-223eca7c926b913a.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/37-b8b03526c1f8b71e.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/37-b8b03526c1f8b71e.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/32-ec2eff3aa45954e7.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/32-ec2eff3aa45954e7.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/30-4ea994b49108bc3d.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/30-4ea994b49108bc3d.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/chunks/pages/landing-pages/%5Bschool-slug%5D/%5Bsite-slug%5D/%5B%5B...page-slug%5D%5D-60abe08cb73ccc92.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/chunks/pages/landing-pages/%5Bschool-slug%5D/%5Bsite-slug%5D/%5B%5B...page-slug%5D%5D-60abe08cb73ccc92.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/yfRX82ICq009B4-onnnvE/_buildManifest.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/yfRX82ICq009B4-onnnvE/_buildManifest.js"
       defer=""
     ></script>
     <script
-      src="./_next/static/yfRX82ICq009B4-onnnvE/_ssgManifest.js"
+      src="https://d20ou977mdcolz.cloudfront.net/_next/static/yfRX82ICq009B4-onnnvE/_ssgManifest.js"
       defer=""
     ></script>
     <style id="__jsx-3773176079">
@@ -20515,7 +20516,7 @@
     </script>
 
     <!-- Popup script -->
-    <script src="./js/widget/npfwpopup.js"></script>
+    <script src="https://in6cdn.npfs.co/js/widget/npfwpopup.js"></script>
     <script>
       let npfW5f18efeb970d645a64e55f82f8662afb = new NpfWidgetsInit({
         widgetId: "5f18efeb970d645a64e55f82f8662afb",
