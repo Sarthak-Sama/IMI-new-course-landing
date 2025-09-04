@@ -20073,9 +20073,16 @@
           const careerServicesHeading = document.querySelector(
             "#icons-text-career-services--offered-by-imi-new-delhi h2"
           );
-          console.log(careerServicesHeading);
           careerServicesHeading.innerText =
             "Career Services offered by IMI Delhi";
+
+          // Updating the href of apply now button
+          const applyNowBtn = document.querySelector(
+            ".mt-3.btn--container.registration_registration__btnGroup a"
+          );
+          applyNowBtn.href =
+            "https://leadupuniverse.in6.nopaperforms.com/imi-pgdm-online";
+          applyNowBtn.target = "_blank";
         }
 
         // Update service icons
